@@ -1,0 +1,202 @@
+.mac-book-pro141 {
+    width: 100%;
+    height: 982px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .navbar8 {
+    top: 1px;
+    left: -4px;
+    width: 1525px;
+    height: 108px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(0, 0, 0, 1);
+  }
+  .frame28 {
+    top: 45px;
+    left: 60px;
+    width: 229px;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    border-color: transparent;
+  }
+  .group4 {
+    width: 98px;
+    height: 19px;
+    display: flex;
+    padding: 0;
+    position: relative;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 60px;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .text {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: left;
+    line-height: normal;
+  }
+  .text02 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    align-self: auto;
+    text-align: left;
+    line-height: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .frame175 {
+    top: 26px;
+    left: 1207px;
+    width: 258px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .button {
+    height: 56px;
+    display: flex;
+    padding: 17px 30px;
+    position: relative;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: rgba(58, 78, 57, 1);
+    border-style: solid;
+    border-width: 1px;
+    margin-right: 16px;
+    border-radius: 4px;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .text04 {
+    color: rgba(58, 78, 57, 1);
+    height: auto;
+    align-self: auto;
+    text-align: center;
+    line-height: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .button1 {
+    height: 56px;
+    display: flex;
+    padding: 17px 30px;
+    position: relative;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-radius: 4px;
+    justify-content: center;
+    background-color: rgba(58, 78, 57, 1);
+  }
+  .text06 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    align-self: auto;
+    text-align: center;
+    line-height: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .cli21 {
+    top: 0px;
+    left: 584px;
+    width: 318px;
+    height: 108px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .rectangle5 {
+    top: 221.95530700683594px;
+    left: 18.32429313659668px;
+    width: 883px;
+    height: 626px;
+    position: absolute;
+  }
+  .ellipse4 {
+    top: 243px;
+    left: 35px;
+    width: 19px;
+    height: 23px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .ellipse5 {
+    top: 243px;
+    left: 64px;
+    width: 19px;
+    height: 23px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .ellipse6 {
+    top: 243px;
+    left: 93px;
+    width: 20px;
+    height: 23px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .text08 {
+    top: 348px;
+    left: 941px;
+    color: rgba(29, 29, 29, 1);
+    width: 481px;
+    height: auto;
+    position: absolute;
+    font-size: 48px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 64px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .text10 {
+    top: 515px;
+    left: 941px;
+    color: rgba(29, 29, 29, 0.800000011920929);
+    width: 480px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: 160.0000023841858%;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  
