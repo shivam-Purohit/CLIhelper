@@ -1,14 +1,15 @@
-import { isDisabled } from '@testing-library/user-event/dist/utils';
+
 import React from 'react';
-import LoginPage from './LoginPage';
-import ChatPage from './ChatPage';
+
+import ChatBot from './components/ChatBot';
+import ChatPage from './components/ChatPage';
 
 
 function App() {
   return (
     <div>
-     <LoginPage></LoginPage>
-    <ChatPage></ChatPage>
+    <ChatBot ></ChatBot>  {/*on the right and fixed */}
+    <ChatPage></ChatPage> {/*on the left */}
     </div>
     
   );
