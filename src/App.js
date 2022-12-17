@@ -9,7 +9,7 @@ function App() {
   return (
     <div>
     <ChatBot ></ChatBot>  {/*on the right and fixed */}
-    <ChatPage></ChatPage> {/*on the left */}
+    
     </div>
     
   );
