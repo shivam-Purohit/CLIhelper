@@ -1,0 +1,204 @@
+.mac-book-pro141-container {
+  min-height: 100vh;
+}
+.mac-book-pro141-mac-book-pro141 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.mac-book-pro141-navbar8 {
+  top: 0px;
+  left: -13px;
+  width: 1453px;
+  height: 108px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, 1);
+}
+.mac-book-pro141-frame28 {
+  top: 45px;
+  left: 60px;
+  width: 229px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+}
+.mac-book-pro141-group4 {
+  width: 98px;
+  height: 19px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 60px;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.mac-book-pro141-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+}
+.mac-book-pro141-text02 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.mac-book-pro141-frame175 {
+  top: 26px;
+  left: 1135px;
+  width: 258px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.mac-book-pro141-button {
+  height: 56px;
+  display: flex;
+  padding: 17px 30px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(58, 78, 57, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 16px;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.mac-book-pro141-text04 {
+  color: rgba(58, 78, 57, 1);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.mac-book-pro141-button1 {
+  height: 56px;
+  display: flex;
+  padding: 17px 30px;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: rgba(58, 78, 57, 1);
+}
+.mac-book-pro141-text06 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  align-self: auto;
+  text-align: center;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.mac-book-pro141-cli21 {
+  top: 0px;
+  left: 581px;
+  width: 318px;
+  height: 108px;
+  position: absolute;
+  border-color: transparent;
+}
+.mac-book-pro141-rectangle5 {
+  top: 199.80166625976562px;
+  left: 13px;
+  width: 861px;
+  height: 648px;
+  position: absolute;
+}
+.mac-book-pro141-ellipse4 {
+  top: 224px;
+  left: 33px;
+  width: 19px;
+  height: 23px;
+  position: absolute;
+  border-color: transparent;
+}
+.mac-book-pro141-ellipse5 {
+  top: 224px;
+  left: 62px;
+  width: 19px;
+  height: 23px;
+  position: absolute;
+  border-color: transparent;
+}
+.mac-book-pro141-ellipse6 {
+  top: 224px;
+  left: 91px;
+  width: 20px;
+  height: 23px;
+  position: absolute;
+  border-color: transparent;
+}
+.mac-book-pro141-text08 {
+  top: 312px;
+  left: 939px;
+  color: rgba(29, 29, 29, 1);
+  width: 428px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 64px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.mac-book-pro141-text10 {
+  top: 493px;
+  left: 939px;
+  color: rgba(29, 29, 29, 0.800000011920929);
+  width: 474px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 160.0000023841858%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
