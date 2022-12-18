@@ -1,6 +1,7 @@
 import React from "react";
 import './ChatBot.css'
 import Record from '../outputPackage.json'
+
 import ChatPage from "./ChatPage";
 function ChatBot() {
       
@@ -50,8 +51,8 @@ const utterances = [
             
             if (element.description.match(string)) {
                 console.log(element.description)
-
-              return item;
+                
+                 return item;
             
               }
 
@@ -60,25 +61,24 @@ const utterances = [
       
    
 
-  console.log(item);
-  if(item >=1){
-     <ChatPage index = {item}  ></ChatPage> 
-  }
+  
   return item;
-   //creating a display page based on the array index;
+   
   
 }
 
-function output() {
-  let product;
-  // let text = input.toLowerCase().replace(/[^\w\s\d]/gi, "");
-  let text = 'cd'
+function output(textValue) {
+
+  if (textValue==null){
+    textValue = 'cd'
+  }
  
-  if (compare(utterances, answers, text)) {
-    product = compare(utterances, answers, text);
+  if (compare(utterances, answers, textValue)) {
+    const product = compare(utterances, answers, textValue);
+    <ChatPage index= {2} ></ChatPage>
   } 
   else {
-    product = -1;
+    const product = -1;
      
   }
     
@@ -89,9 +89,14 @@ function output() {
     return (
       
 
-<div>
-   <input className="input1" type="text" />
-   <button onClick={output()}>find</button>
+<div align ='right'>
+      <div className="terminal" >
+          <h3 align='center'>ChatBot</h3>
+          <div className="console" >
+            <input type='text'></input>
+            <button onClick={output(document.getElementsByClassName('input').value)}>search</button>
+          </div>
+      </div>
    
    
 </div>

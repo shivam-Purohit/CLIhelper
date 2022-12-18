@@ -1,17 +1,19 @@
-import React from 'react';
-
-import ChatBot from './components/ChatBot';
+import './App.css';
+import Navbar from './components/Navbar'
+import ChatBot from './components/ChatBot'
 import ChatPage from './components/ChatPage';
-
 function App() {
   return (
-    <><div>
-      
-    </div><div>
-        <ChatBot></ChatBot>  {/*on the right and fixed */}
-
-      </div></>
-    
+    <div className="AppMain">
+         <Navbar></Navbar>
+         <div className="container">
+          <ChatPage index = {2}></ChatPage>
+         <ChatBot></ChatBot>
+       
+         </div>
+         
+         
+    </div>
   );
 }
 
