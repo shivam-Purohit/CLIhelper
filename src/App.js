@@ -1,17 +1,21 @@
-import React from 'react';
+import './App.css';
 
-import ChatBot from './components/ChatBot';
-import ChatPage from './components/ChatPage';
+import { LinuxPage } from './components/LinuxPage';
+import './components/Navbar'
+import { Navbar } from './components/Navbar';
+import Footer from './components/Footer';
+import { Gitpage } from './components/Gitpage';
+import { DockerPage } from './components/DockerPage';
 
 function App() {
   return (
-    <><div>
-      
-    </div><div>
-        <ChatBot></ChatBot>  {/*on the right and fixed */}
-
-      </div></>
-    
+    <div className="App" >
+       <Navbar/>
+       {/* <LinuxPage/> */}
+       {/* <Gitpage/> */}
+       <DockerPage/>
+       <Footer/>
+    </div>
   );
 }
 
