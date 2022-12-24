@@ -1,0 +1,68 @@
+.footer{
+    background-color :#2b2727;
+    width:100%;
+    height:10em;
+    display:flex;
+    align-items:flex-end;
+    justify-content:flex-end
+}
+.footerContent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.png{
+    margin-right: 3em;
+    background: url('../images/CLiImage.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 10em;
+    height: 5em;
+    justify-content: center;
+    align-items: center;
+}
+.socials{
+    color: white;
+    display: flex;
+   margin-top: auto;
+   margin-bottom: auto;
+   /* border: solid blanchedalmond 2px; */
+   justify-content: center;
+   align-items: center;
+   padding-top: 40px;
+    
+    
+}
+.github{
+    align-self: center;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    background-image: url('../images/icons8-github-128.png');
+   background-repeat: no-repeat;
+   background-size: cover;
+   width: 3em;
+   height: 3em;
+}
+.linkdin{
+    align-self: center;
+    align-content: center;
+    align-items: center;
+    width: 2em;
+   height: 2em;
+   margin-left: 10px;
+   background-image: url('../images/Linkedin-Download-PNG.png');
+   background-repeat: no-repeat;
+   background-size: cover;   
+}
+.twitter{
+    align-self: center;
+    align-content: center;
+    align-items: center;
+   margin-left: 10px;
+   background-image: url('../images/icons8-twitter-96.png');
+   background-repeat: no-repeat;
+   background-size: cover;
+   width: 3em;
+   height: 3em;
+}
